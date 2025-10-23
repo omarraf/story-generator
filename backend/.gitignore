@@ -194,12 +194,6 @@ temp/
 ehthumbs.db
 Thumbs.db
 
-# AI/ML model files (can be large)
-*.model
-*.pkl
-*.joblib
-models/
-checkpoints/
 
 # LangChain cache
 .langchain/
