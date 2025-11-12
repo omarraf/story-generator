@@ -1,8 +1,8 @@
-# Choose Your Own Adventure Story Generator
+# AI Narrative Engine
 
 An AI-powered web application that creates immersive, interactive choose-your-own-adventure stories based on user-specified themes.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Backend
 - **[FastAPI](https://fastapi.tiangolo.com/)** - Modern, fast Python web framework for building APIs
@@ -16,7 +16,7 @@ An AI-powered web application that creates immersive, interactive choose-your-ow
 - **[React Router](https://reactrouter.com/)** - Declarative routing for React applications
 - **[Axios](https://axios-http.com/)** - Promise-based HTTP client for API communication
 
-## ✨ Features
+## Features
 
 - **AI Story Generation** - Creates rich, immersive stories with 5-7+ meaningful choices
 - **Custom Themes** - Users can specify any theme (fantasy, sci-fi, mystery, etc.)
@@ -25,7 +25,7 @@ An AI-powered web application that creates immersive, interactive choose-your-ow
 - **Session Management** - Cookie-based user sessions for story tracking
 - **Win/Lose Endings** - Multiple story outcomes with victory and defeat scenarios
 
-## 🏗️ Architecture
+## Architecture
 
 ### Backend Architecture
 ```
